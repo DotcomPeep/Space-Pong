@@ -9,7 +9,7 @@ extends Node2D
 var last_position 
 var asteroid_scene = preload("res://scenes/asteroid.tscn")
 
-""" ezemplo de biblioteca para contagem de pontos
+""" exemplo de biblioteca para contagem de pontos
 var pontos_jogadores = {
 	"Alice": 10,
 	"Bob": 20,
